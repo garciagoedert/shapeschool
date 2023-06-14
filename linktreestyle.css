@@ -1,7 +1,13 @@
 body {
   text-align: center;
   color: #ffd384;
-  background-image: url("/assets/img/frame16.png");
+  background: rgb(64, 158, 91);
+  background: radial-gradient(
+    circle,
+    rgba(64, 158, 91, 1) 0%,
+    rgba(48, 133, 55, 1) 35%,
+    rgba(33, 57, 36, 1) 100%
+  );
 }
 
 img {
