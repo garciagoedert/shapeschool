@@ -11622,4 +11622,9 @@ body {
   margin-top: 16px;
 }
 
+.textwhitesubtle {
+  font-family: "Nunito", sans-serif;
+  color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
+}
+
 /* COLORS ABAIXO HEAD */
